@@ -1,12 +1,6 @@
 from time import sleep
 print("\033a[;36m")
 print("BOT REPORT TIK TOK..'")
-print ("  __ __  _ __ ____   _
-print (" | '_ \| '__/ _ \ \/ / | | |
-print (" | |_) | | | (_) >  <| |_| |
-print (" | .__/|_|  \___/_/\_\__, |
-print (" | |                   __/ |
-print (' |_|                  |___/
 sleep(1)
 print ("///////////////////////////")
 print ("tiktok: proxy_fhacks")
